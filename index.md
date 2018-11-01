@@ -11,7 +11,7 @@ We all know how popular GTA games are but when it comes to technical documentati
 
 ## WHAT TO EXPECT
 
-There are 700+ GTA classes in GTA III, VS, and SA with little to no documentation. The only ones who understand how they work are people that are active in GTA modding communities, if anyone else wishes to learn how they work, they'll need to open up IDA and understand the workflow. This is a very time-consuming process. Our goal here is to document every global variable, enumeration, class, and function. This will help newbies to start quickly without getting lost in piles of ASM. 
+There are 700+ GTA classes in GTA III, VC, and SA with little to no documentation. The only ones who understand how they work are people that are active in GTA modding communities, if anyone else wishes to learn how they work, they'll need to open up IDA and understand the workflow. This is a very time-consuming process. Our goal here is to document every global variable, enumeration, class, and function. This will help newbies to start quickly without getting lost in piles of ASM. 
 
 ## TWO IMPORTANT PROJECTS
 
